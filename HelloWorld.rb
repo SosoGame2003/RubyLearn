@@ -1,8 +1,3 @@
-class Hello
-    def hello
-        puts 'Hello World'
-    end
-end
+#Hello Worldと表示させるだけ
 
-greeting = Hello.new
-greeting.hello
+puts "Hello World"

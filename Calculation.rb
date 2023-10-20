@@ -1,3 +1,5 @@
+#簡単な計算をする
+
 #足し算
 addition = 100 + 100
 puts addition
